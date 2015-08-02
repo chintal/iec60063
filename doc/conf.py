@@ -205,7 +205,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'IEC60063.tex', u'IEC60063 Documentation',
-   u'Chintalagiri Shashank', 'manual'),
+   u'Chintalagiri Shashank', 'howto'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
