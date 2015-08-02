@@ -7,7 +7,7 @@ Values. These are the 'standard' values for varius types of passive
 electrical components, such as resistors, capacitors, etc.
 
 For more information about IEC60063, take a look at this
-`Wikipedia page <https://en.wikipedia.org/wiki/Preferred_number>`_
+`Wikipedia page <https://en.wikipedia.org/wiki/Preferred_number>`_.
 
 Usage Example
 -------------

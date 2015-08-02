@@ -67,11 +67,11 @@ setup(
     ],
 
     # What does your project relate to?
-    keywords='electronics standards',
+    keywords='electronics standards iec60063',
 
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
-    packages='iec60063',
+    packages=['iec60063'],
 
     # List run-time dependencies here.  These will be installed by pip when
     # your project is installed. For an analysis of "install_requires" vs pip's
@@ -83,14 +83,12 @@ setup(
     # dependencies). You can install these using the following syntax,
     # for example:
     # $ pip install -e .[dev,test]
-    extras_require={
-    },
+    extras_require={},
 
     # If there are data files included in your packages that need to be
     # installed, specify them here.  If using Python 2.6 or less, then these
     # have to be included in MANIFEST.in as well.
-    package_data={
-    },
+    package_data={},
 
     # Although 'package_data' is the preferred approach, in some case you may
     # need to place data files outside of your packages. See:
@@ -101,6 +99,5 @@ setup(
     # To provide executable scripts, use entry points in preference to the
     # "scripts" keyword. Entry points provide cross-platform support and allow
     # pip to create the appropriate form of executable for the target platform.
-    entry_points={
-    },
+    entry_points={},
 )
