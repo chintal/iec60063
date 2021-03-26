@@ -86,6 +86,8 @@ ind_ostrs = ['nH', 'uH', 'mH']
 #: Order Strings for Numbers
 num_ostrs = ['']
 
+all_series = ['E192', 'E96', 'E48', 'E24', 'E12', 'E6', 'E3']
+
 
 def get_ostr(stype=None):
     """
